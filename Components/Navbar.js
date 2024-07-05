@@ -15,7 +15,7 @@ const Navbar = () => {
     <nav className="bg-white dark:bg-gray-800 p-4">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-2xl font-bold text-primary">
-          <Link href="/">&lt; Developer/ &gt;</Link>
+          <Link href="/">&lt; E-Commerce /&gt;</Link>
         </div>
         <div className="hidden md:flex space-x-4">
           <Link href="/" className="text-gray-700 dark:text-gray-200 hover:underline">Home</Link>
